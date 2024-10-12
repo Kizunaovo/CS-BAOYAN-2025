@@ -36,3 +36,4 @@
 * @[Protechny](https://www.zhihu.com/people/xiang-bei-4-62)的[2024年（2025届）CS/SE保研经验分享|无科研竞赛经验|国防科大智能院、中科院软件所、哈工大计算学部、西交软院、成电计院|上岸成电cs专硕](https://zhuanlan.zhihu.com/p/809858162)
 * @[猫了个猫](https://www.zhihu.com/people/lsz-14-39)的[【25保研经验贴】浙大软院、自动化所、中科大、神仙院MMlab、同济软件、中山CS经验贴](https://zhuanlan.zhihu.com/p/770129585)
 * @[ACshine](https://github.com/ACshine)的[2024年（2025届）-中2计算机保研全过程经验帖（杭高院、西工大、北邮、成电、华师、北师、复旦、北航等](https://zhuanlan.zhihu.com/p/860709046)
+* @[Kizunaovo](https://github.com/Kizunaovo)的[24年四非上岸华五计算机保研全程贴（中科大，北航，杭高院，电科等）](https://mp.weixin.qq.com/s/AuTX2l83m83wic3_kgRxDQ)
